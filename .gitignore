@@ -1,0 +1,97 @@
+# ========================================
+# BikeSense Git Ignore
+# ========================================
+
+
+# ----------------------------------------
+# Altium Designer
+# ----------------------------------------
+
+# Altium history / backups
+History/
+__Previews/
+Project\ Logs\ for*/
+Project\ Outputs\ for*/
+
+# Altium generated files
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.REP
+*.LOG
+*.log
+
+# Altium lock files
+~$*
+*.LCK
+
+# Altium autosave / backup
+*.bak
+*.BAK
+
+# Generated outputs
+*.OutJobPreview
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+
+# ----------------------------------------
+# Xcode / iOS
+# ----------------------------------------
+
+DerivedData/
+build/
+
+*.xcuserstate
+xcuserdata/
+
+*.xccheckout
+*.moved-aside
+
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+
+# ----------------------------------------
+# Node / Website
+# ----------------------------------------
+
+node_modules/
+dist/
+build/
+
+.env
+.env.local
+.env.production
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.next/
+.nuxt/
+
+
+# ----------------------------------------
+# macOS
+# ----------------------------------------
+
+.DS_Store
+
+
+# ----------------------------------------
+# IDE
+# ----------------------------------------
+
+.vscode/
+.idea/
+
+
+# ----------------------------------------
+# Misc
+# ----------------------------------------
+
+*.tmp
+*.temp
