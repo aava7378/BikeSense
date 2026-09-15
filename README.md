@@ -2,7 +2,7 @@
 
 BikeSense is a low-power embedded bicycle sensing system developed for the Low-Power Embedded Design Techniques (LPEDT) course.
 
-The system integrates embedded hardware, sensors, Bluetooth Low Energy communication, an iOS application, and a web interface for bicycle telemetry and monitoring.
+The system integrates embedded hardware, sensors, Bluetooth Low Energy communication, and a web interface for bicycle telemetry and monitoring.
 
 ## Repository Structure
 
