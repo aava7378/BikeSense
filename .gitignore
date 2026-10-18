@@ -94,4 +94,9 @@ yarn-error.log*
 # ----------------------------------------
 
 *.tmp
-*.temp
+*.tempfirmware/BikeSense_Blink_Test/cmake_gcc/
+firmware/BikeSense_Blink_Test/simplicity_sdk_2026.6.1/
+firmware/BikeSense_Blink_Test/.vscode/
+firmware/BikeSense_Blink_Test/.codex/
+firmware/BikeSense_Blink_Test/.projectlinkstore
+firmware/BikeSense_Blink_Test/.silabsExtContext
